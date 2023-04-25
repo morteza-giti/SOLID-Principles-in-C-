@@ -1,0 +1,6 @@
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\InterfaceSegregationPrincipleDemo\bin\Debug\InterfaceSegregationPrincipleDemo.exe.config
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\InterfaceSegregationPrincipleDemo\bin\Debug\InterfaceSegregationPrincipleDemo.exe
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\InterfaceSegregationPrincipleDemo\bin\Debug\InterfaceSegregationPrincipleDemo.pdb
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\InterfaceSegregationPrincipleDemo\obj\Debug\InterfaceSegregationPrincipleDemo.csprojResolveAssemblyReference.cache
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\InterfaceSegregationPrincipleDemo\obj\Debug\InterfaceSegregationPrincipleDemo.exe
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\InterfaceSegregationPrincipleDemo\obj\Debug\InterfaceSegregationPrincipleDemo.pdb

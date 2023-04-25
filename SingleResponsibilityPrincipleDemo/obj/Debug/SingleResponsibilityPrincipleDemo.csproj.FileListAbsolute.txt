@@ -1,0 +1,7 @@
+C:\Users\Morteza\Desktop\TheSOLIDPrinciplesCourseProVid\SingleResponsibilityPrincipleDemo\bin\Debug\SingleResponsibilityPrincipleDemo.exe.config
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\SingleResponsibilityPrincipleDemo\bin\Debug\SingleResponsibilityPrincipleDemo.exe.config
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\SingleResponsibilityPrincipleDemo\bin\Debug\SingleResponsibilityPrincipleDemo.exe
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\SingleResponsibilityPrincipleDemo\bin\Debug\SingleResponsibilityPrincipleDemo.pdb
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\SingleResponsibilityPrincipleDemo\obj\Debug\SingleResponsibilityPrincipleDemo.exe
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\SingleResponsibilityPrincipleDemo\obj\Debug\SingleResponsibilityPrincipleDemo.pdb
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\SingleResponsibilityPrincipleDemo\obj\Debug\SingleResponsibilityPrincipleDemo.csprojResolveAssemblyReference.cache

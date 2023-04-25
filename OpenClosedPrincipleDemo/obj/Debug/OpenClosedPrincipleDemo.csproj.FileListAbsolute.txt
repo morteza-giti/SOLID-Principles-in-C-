@@ -1,0 +1,6 @@
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\OpenClosedPrincipleDemo\bin\Debug\OpenClosedPrincipleDemo.exe.config
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\OpenClosedPrincipleDemo\bin\Debug\OpenClosedPrincipleDemo.exe
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\OpenClosedPrincipleDemo\bin\Debug\OpenClosedPrincipleDemo.pdb
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\OpenClosedPrincipleDemo\obj\Debug\OpenClosedPrincipleDemo.exe
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\OpenClosedPrincipleDemo\obj\Debug\OpenClosedPrincipleDemo.pdb
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\OpenClosedPrincipleDemo\obj\Debug\OpenClosedPrincipleDemo.csprojResolveAssemblyReference.cache

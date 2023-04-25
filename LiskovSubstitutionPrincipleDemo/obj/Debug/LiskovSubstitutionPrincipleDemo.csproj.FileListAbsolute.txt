@@ -1,0 +1,6 @@
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\LiskovSubstitutionPrincipleDemo\bin\Debug\LiskovSubstitutionPrincipleDemo.exe.config
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\LiskovSubstitutionPrincipleDemo\bin\Debug\LiskovSubstitutionPrincipleDemo.exe
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\LiskovSubstitutionPrincipleDemo\bin\Debug\LiskovSubstitutionPrincipleDemo.pdb
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\LiskovSubstitutionPrincipleDemo\obj\Debug\LiskovSubstitutionPrincipleDemo.exe
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\LiskovSubstitutionPrincipleDemo\obj\Debug\LiskovSubstitutionPrincipleDemo.pdb
+G:\ProVid.ir.The.SOLID.Principles.OOP.CSharp\TheSOLIDPrinciplesCourseProVid\LiskovSubstitutionPrincipleDemo\obj\Debug\LiskovSubstitutionPrincipleDemo.csprojResolveAssemblyReference.cache
